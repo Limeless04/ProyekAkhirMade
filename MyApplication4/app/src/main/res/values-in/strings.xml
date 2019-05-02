@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movie">Film</string>
+    <string name="tv">Televisi</string>
+    <string name="name">Judul</string>
+    <string name="desc">Deskripsi</string>
+    <string name="year">Tahun</string>
+    <string name="score">Nilai</string>
+    <string name="language">Bahasa</string>
+    <string name="loading">Loading</string>
+    <string name="loading_msg">Silahkan Tunggu...</string>
+    <string name="error_msg">Gagal Mendapatkan Data...</string>
+    <string name="add_fav">Tambahkan ke favorit</string>
+    <string name="remove_fav">Hapus dari favorit</string>
+    <string name="fav">Favorit</string>
+    <string name="no_fav">Tidak ada data untuk ditampilkan</string>
+    <string name="search">Cari judul</string>
+    <string name="not_found">Judul tidak ditemukan</string>
+    <string name="msg">Jangan lupa untuk membuka aplikasi ini</string>
+    <string name="notif">Notifikasi</string>
+    <string name="key_switch1">switch1</string>
+    <string name="key_switch2">switch2</string>
+</resources>

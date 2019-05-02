@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movie">Movie</string>
+    <string name="tv">TV</string>
+    <string name="name">Title</string>
+    <string name="desc">Description</string>
+    <string name="year">Year</string>
+    <string name="score">Score</string>
+    <string name="language">Language</string>
+    <string name="loading">Loading</string>
+    <string name="loading_msg">Please Wait...</string>
+    <string name="error_msg">Fetching Failed...</string>
+    <string name="add_fav">Add to favorite</string>
+    <string name="remove_fav">Remove from favorite</string>
+    <string name="fav">Favorite</string>
+    <string name="no_fav">No data to show</string>
+    <string name="search">Search title</string>
+    <string name="not_found">No title found</string>
+    <string name="msg">Don\'t forget to open this app</string>
+    <string name="notif">Notification</string>
+    <string name="key_switch1">switch1</string>
+    <string name="key_switch2">switch2</string>
+</resources>
